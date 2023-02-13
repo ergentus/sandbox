@@ -26,4 +26,6 @@ function palindrome(str) {
 
 }
 
+const string ="race car"
+
 console.log(palindrome(string));
