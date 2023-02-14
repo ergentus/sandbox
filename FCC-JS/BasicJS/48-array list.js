@@ -1,0 +1,1 @@
+const myList = [['cat', 7], ['dog', 7], ['pigeon', 3], ['giraff', 10], ['tiger', 20]];
