@@ -5,7 +5,7 @@ const result = {
 };
 function makeList(arr) {
    // Only change code below this line
-   let failureItems = []
+   const failureItems = []
    for (let i = 0; i < arr.length; i++) {
       failureItems[i] = `<li class="text-warning">${arr[i]}</li>`
    }
