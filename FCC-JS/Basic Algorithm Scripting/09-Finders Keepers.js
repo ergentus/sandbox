@@ -1,6 +1,6 @@
 function findElement(arr, func) {
    let num = 0;
-   num = arr.find((num) => func(num))
+   num = arr.find(func)
    console.log(num)
    return num;
 }
